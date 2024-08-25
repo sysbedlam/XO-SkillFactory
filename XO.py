@@ -135,7 +135,7 @@ def new_game(zanogo: int = 0):
             ]
             start_game()
         elif ng.lower() == 'triniti':
-            print('The Matrix has you....')
+            print('The Matrix has you...')
             new_game(1)
         else:
             print('Спасибо за игру!')
